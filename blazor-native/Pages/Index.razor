@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<h1>Raster (Bitmap) Canvas</h1>
+
+<p>The canvas below is using pixels in memory. Click and drag to move the text.</p>
+
+<div class="container">
+    <div class="row">
+        <div class="col border rounded p-2 canvas-container">
+
+            <SKCanvasView
+                @ref="skiaView" OnPaintSurface="OnPaintSurface" IgnorePixelScaling="true" />
+
+        </div>
+    </div>
+</div>
+
+@code {
+    SKCanvasView skiaView = null!;
+    void OnPaintSurface(SKPaintSurfaceEventArgs e)
+    {
+        // the the canvas and properties
+        var canvas = e.Surface.Canvas;
+
+        // make sure the canvas is blank
+        canvas.Clear(SKColors.White);
+
+        // decide what the text looks like
+        using var paint = new SKPaint
+        {
+                TextSize = 16,
+                IsAntialias = true,
+                Color = SKColors.Black,
+                TextAlign = SKTextAlign.Left,
+                Typeface = SkiaChinaFont.ChinaFont,
+        };
+        // draw some text
+        canvas.DrawText("1234567890我是中国人", 50, 50, paint);
+    }
+}

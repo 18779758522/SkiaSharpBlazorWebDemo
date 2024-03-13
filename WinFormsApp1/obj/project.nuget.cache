@@ -1,0 +1,63 @@
+{
+  "version": 2,
+  "dgSpecHash": "Fy/eF9plgjyh1IBXkM7P+QvSTyznbpY+WWvx0zwhkfePIGTKXt9MTAk+8zOcIp0jNVIzQsIfGAhIHCjiGeOdFA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\WinFormsApp1\\WinFormsApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.9\\microsoft.netcore.platforms.3.1.9.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\opentk\\3.1.0\\opentk.3.1.0.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\opentk.glcontrol\\3.1.0\\opentk.glcontrol.3.1.0.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp\\2.88.7\\skiasharp.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.7\\skiasharp.nativeassets.macos.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.7\\skiasharp.nativeassets.win32.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.views\\2.88.7\\skiasharp.views.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.views.desktop.common\\2.88.7\\skiasharp.views.desktop.common.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.views.gtk2\\2.88.7\\skiasharp.views.gtk2.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.views.windowsforms\\2.88.7\\skiasharp.views.windowsforms.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\skiasharp.views.wpf\\2.88.7\\skiasharp.views.wpf.2.88.7.nupkg.sha512",
+    "C:\\Users\\buanfengzi\\.nuget\\packages\\system.drawing.common\\4.7.3\\system.drawing.common.4.7.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“OpenTK 3.1.0”。此包可能与项目不完全兼容。",
+      "libraryId": "OpenTK",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“OpenTK.GLControl 3.1.0”。此包可能与项目不完全兼容。",
+      "libraryId": "OpenTK.GLControl",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“SkiaSharp.Views 2.88.7”。此包可能与项目不完全兼容。",
+      "libraryId": "SkiaSharp.Views",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "已使用“.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1”而不是项目目标框架“net8.0-windows7.0”还原包“SkiaSharp.Views.Gtk2 2.88.7”。此包可能与项目不完全兼容。",
+      "libraryId": "SkiaSharp.Views.Gtk2",
+      "targetGraphs": [
+        "net8.0-windows7.0"
+      ]
+    }
+  ]
+}

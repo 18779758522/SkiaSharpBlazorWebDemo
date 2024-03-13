@@ -1,0 +1,81 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\bin\\Debug\\net6.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\obj\\Debug\\net6.0\\compressed\\8r3onsk8fo.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\obj\\Debug\\net6.0\\scopedcss\\bundle\\SkiaSharpSample.styles.css",
+      "PackagePath": "staticwebassets\\SkiaSharpSample.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\css\\open-iconic-bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.eot",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.eot"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.otf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.otf"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.svg",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.svg"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.ttf",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\css\\open-iconic\\font\\fonts\\open-iconic.woff",
+      "PackagePath": "staticwebassets\\css\\open-iconic\\font\\fonts\\open-iconic.woff"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\buanfengzi\\Desktop\\SkiaSharpBlazorWebAssembly-main\\SkiaSharpBlazorWebAssembly-main\\blazor-native\\wwwroot\\js\\app.js",
+      "PackagePath": "staticwebassets\\js\\app.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SkiaSharpSample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SkiaSharpSample.props",
+      "PackagePath": "build\\SkiaSharpSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SkiaSharpSample.props",
+      "PackagePath": "buildMultiTargeting\\SkiaSharpSample.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SkiaSharpSample.props",
+      "PackagePath": "buildTransitive\\SkiaSharpSample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
